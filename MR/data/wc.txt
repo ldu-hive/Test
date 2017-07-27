@@ -1,0 +1,4 @@
+hadoop hello world
+hello hadoop hive
+hdfs mapreduce hbase
+hdfs hbase zookeeper
